@@ -24,7 +24,7 @@ The parameter X represents the time limit in hours.
 The function generates an output file named Q1_cd_output.txt, which contains the maximum value of n for which the number of motifs can be computed within X hours.
 It also prints to the console the computation time for each n, until the time limit is reached.
 
-Question 2
+## Question 2
 The relevant function for Question 2 is:
 Q2();
 This function receives as input a text file (with .txt extension) located in the directory from which the code is executed.
