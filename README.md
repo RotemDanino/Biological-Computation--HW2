@@ -31,7 +31,7 @@ This function receives as input a text file (with .txt extension) located in the
 Currently, the function is called from main with the input file Q2_input.txt.
 It generates an output text file named Q2_output_n.txt, where n is the number of vertices found in the input file.
 
-### How to Run
+## How to Run
 To run the code:
 All function calls are made from the main function.
 
