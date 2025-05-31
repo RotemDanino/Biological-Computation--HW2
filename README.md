@@ -8,7 +8,6 @@ Biological Computation- HW2
 
 For sections **a** and **b**, the relevant function is:
 
-```cpp
 Q1_a_b();
 This function calls another function:
 connected_sub_graphs(n);
